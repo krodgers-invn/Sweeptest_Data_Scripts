@@ -35,3 +35,8 @@ This script has some functionality related to preparing data for plotting and ge
 Input : Single processed CSV file from sweeptest_postpro.py
 
 Output: Polar Beam Pattern Plot and SNR Contour Plot. 
+
+## Note on prod_functions.py:
+
+This script was pulled from sweng.chirpmicro-analysis_python/Stefon/prod_test on github, and is mainly used for the file dialog function and IQ trace decoding. It is also where most of the required packages are imported, so that the other scripts import everything from prod_test_functions.py. 
+
