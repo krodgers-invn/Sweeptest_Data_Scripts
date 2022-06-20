@@ -1,8 +1,5 @@
-import matplotlib as mpl
-import matplotlib.pyplot as plt
 from prod_test_functions import *
 import warnings
-from scipy.interpolate import griddata
 from math import floor, ceil
 import sweep_postpro_functions
 import matplotlib as mpl
